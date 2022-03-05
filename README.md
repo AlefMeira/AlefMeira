@@ -2,7 +2,14 @@
 
 👨🏾‍💻 Curioso e sempre em busca de novos desafios, de alguma forma isso me mantém em constante evolução. Engenehiro de Software Jr na CI&T e aluno de mestrado no programa de Pós-graduação em Ciência da Computação da Universidade Federal da Bahia - (UFBA).
 
+📚 Pesquisador blockchain;
+
+💻 Desenvolvedor Backend;
+
+
 💡 Construindo a minha própria sorte com as minhas próprias mãos 🍀
+
+ 
 
 <div align="center">
   <a href="https://github.com/Alefmeira">
