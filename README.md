@@ -1,6 +1,6 @@
 ### 👨🏾 Alef Meira Here 👋🏿
 
-👨🏾‍💻 Curioso e sempre em busca de novos desafios, de alguma forma isso me mantém em constante evolução. Engenehiro de Software Jr na CI&T e aluno de mestrado no programa de Pós-graduação em Ciência da Computação da Universidade Federal da Bahia - (UFBA).
+👨🏾‍💻 Curioso e sempre em busca de novos desafios, de alguma forma isso me mantém em constante evolução. Engenehiro de Software na CI&T e aluno de mestrado no programa de Pós-graduação em Ciência da Computação da Universidade Federal da Bahia - (UFBA).
 
 📚 Pesquisador blockchain;
 
