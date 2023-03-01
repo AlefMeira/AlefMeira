@@ -4,7 +4,7 @@
 
 📚 Pesquisador blockchain;
 
-💻 Desenvolvedor Backend;
+💻 Software Engineer;
 
 
 💡 Construindo a minha própria sorte com as minhas próprias mãos 🍀
