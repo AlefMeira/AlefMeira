@@ -1,4 +1,4 @@
-### 👨🏾 Alef Meira Here 👋🏿
+### 👨🏾 Alef Chaves Here 👋🏿
 
 👨🏾‍💻 Curioso e sempre em busca de novos desafios, de alguma forma isso me mantém em constante evolução. Engenehiro de Software na CI&T e aluno de mestrado no programa de Pós-graduação em Ciência da Computação da Universidade Federal da Bahia - (UFBA).
 
@@ -12,7 +12,7 @@
  
 
 <div align="center">
-  <a href="https://github.com/Alefmeira">
+  <a href="https://github.com/Aleffchaves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alefmeira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefMeira&layout=compact&langs_count=7&theme=codeSTACKr"/>
     
